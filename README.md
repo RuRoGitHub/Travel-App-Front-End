@@ -45,10 +45,12 @@ And the latest commits on my networking graph from my back-end respoitory:
 ### Databases:
 H2: The H2 database was created with travel_app-schema.sql and travel_app-data.sql files to automatically populate the fields for testing purposes.
 ![H2 Console](https://user-images.githubusercontent.com/93253355/148993048-f83f9d67-92f8-4f85-a702-61c9294eaedc.jpeg)
-
-MySQL: This is the layout of my database for the Travel Destination App. It shows the datatype of each column and also that the 'City Name' field has to be unique.
 ![Photo of travel_app-data sql](https://user-images.githubusercontent.com/93253355/148993509-efaa5ba7-af16-466a-a32a-2389c272bd1c.png)
 ![Photo of travel_app-schema sql](https://user-images.githubusercontent.com/93253355/148993529-27390245-dda2-4bfe-92b1-b2e39a8658b0.png)
+
+MySQL: This is the layout of my database for the Travel Destination App. It shows the datatype of each column and also that the 'cityName' field has to be unique.
+![MySQL](https://user-images.githubusercontent.com/93253355/148994009-b895a46c-ac9a-4c25-ab32-54cbf068cb14.png)
+
 
 ### Front-End: 
 The front-end is built from HTML, CSS and JavaScript. I used the Bootstrap framework for a few components.
