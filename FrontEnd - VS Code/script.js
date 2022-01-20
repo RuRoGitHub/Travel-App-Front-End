@@ -100,6 +100,6 @@ console.log(data);
             console.log("in the create axios function, after post"))
         .catch(err => console.error(err));   
         clear();
-        document.querySelector("#doingWhat").textContent = "Destination Is Created!";
+        document.querySelector("#createDestination").textContent = "Destination Is Created!";
         
 }
